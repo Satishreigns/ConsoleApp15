@@ -10,6 +10,7 @@ namespace ConsoleApp15
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome too my world");
         }
     }
 }
